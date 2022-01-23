@@ -9,3 +9,4 @@ Happy Coding :)
 | Problem Name        | Code          | Solution  |
 | ------------- |:-------------:| -----:|
 | [ATM](https://www.codechef.com/problems/HS08TEST)     |HS08TEST | JAVA |
+| [Single Number](https://leetcode.com/problems/single-number/)     |136 | JAVA |
