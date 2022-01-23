@@ -14,4 +14,4 @@ Output: 1
 ```
 __Solution:__
 
-For solution checkout Solution.java. 
+For solution checkout [Solution.java](https://github.com/vampnik/14-Days-Coding-Challenge/blob/main/Single%20Number/Solution.java). 
