@@ -8,4 +8,5 @@ Happy Coding :)
 
 | Problem Name        | Code          | Solution  |
 | ------------- |:-------------:| -----:|
-| [ATM](https://www.codechef.com/problems/HS08TEST)     |HS08TEST | JAVA |
+| [ATM](https://www.codechef.com/problems/HS08TEST)     |HS08TEST | [JAVA](https://github.com/vampnik/14-Days-Coding-Challenge/blob/main/ATM/ATM1.java) |
+| [Single Number](https://leetcode.com/problems/single-number/)     |136 | [JAVA](https://github.com/vampnik/14-Days-Coding-Challenge/blob/main/Single%20Number/Solution.java) |
